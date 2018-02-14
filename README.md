@@ -1,4 +1,1 @@
-python-juriquilla
-=================
-
-material del curso de python
+curso de python para estudiantes de licenciatura 
